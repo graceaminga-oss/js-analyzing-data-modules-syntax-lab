@@ -1,6 +1,3 @@
-// import datejs
-require('datejs');
-
 function combineUsers(...args) {
   // Initialize return object
   const combinedObject = {
